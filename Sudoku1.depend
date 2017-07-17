@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1472763410 source:/home/simon/ownCloud/Documents/Projekt/Sudoku/Sudoku1/sudoku_io.c
+
+1490900501 source:/home/simon/ownCloud/Documents/Projekt/Sudoku/Sudoku1/sudoku1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<getopt.h>
+	<time.h>
+	"sudoku_general_tools.h"
+
+1473070562 /home/simon/ownCloud/Documents/Projekt/Sudoku/Sudoku1/sudoku_general_tools.h
+
+1473070582 source:/home/simon/ownCloud/Documents/Projekt/Sudoku/Sudoku1/sudoku_solving.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku_general_tools.h"
+
+1473022064 source:/home/simon/ownCloud/Documents/Projekt/Sudoku/Sudoku1/sudoku_tools.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sudoku_general_tools.h"
+
+1473074383 source:/home/simon/.owncloud_nuc/Documents/Projekt/Sudoku/Sudoku1/sudoku1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<getopt.h>
+	<time.h>
+	"sudoku_general_tools.h"
+
+1473070562 /home/simon/.owncloud_nuc/Documents/Projekt/Sudoku/Sudoku1/sudoku_general_tools.h
+
+1473070582 source:/home/simon/.owncloud_nuc/Documents/Projekt/Sudoku/Sudoku1/sudoku_solving.c
+	<stdio.h>
+	<stdlib.h>
+	"sudoku_general_tools.h"
+
+1473022064 source:/home/simon/.owncloud_nuc/Documents/Projekt/Sudoku/Sudoku1/sudoku_tools.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sudoku_general_tools.h"
+
